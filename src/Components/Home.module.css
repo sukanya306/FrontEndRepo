@@ -1,0 +1,40 @@
+.header
+{
+    background-color: rgb(69, 69, 145);
+    height: 50px;
+    
+    
+}
+.form
+{
+    position:inherit;
+    top:100px;
+    /* right: 100px; */
+    /* display: inline-block; */
+    float: left;
+    justify-content: space-between;
+    
+    /* padding: 0 5%; */
+    border: 2px black;
+    text-align: center;
+    align-items: center;
+    padding-left: 250px;
+    padding-top: 180px;
+    font-size: 24px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    
+    
+}
+.formgroup
+{
+    font-size: 20px;
+
+}
+.image
+{
+    /* float: right;  */
+    margin-right: 100px;  
+    margin-top: 120px;
+   
+}
